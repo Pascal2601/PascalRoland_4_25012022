@@ -792,6 +792,7 @@ p {
 .social {
   max-width: 400px;
   margin: auto auto auto auto;
+  
 }
 
 h2 {
@@ -976,7 +977,6 @@ h4 {
   margin-left: auto;
   margin-right: auto;
   width: 20rem;
-  text-align: justify;
 }
 
 .partners_title{
@@ -997,6 +997,8 @@ h4 {
 #form_1 textarea:focus {
   box-shadow: inset 0px 1px 1px 0px rgba(0, 0, 0, 0.07), 0px 0px 3px 3px rgba(164, 42, 66, 0.6);
 }
+
+
 
 @media (max-width: 1024px){
   .bloc {
